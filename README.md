@@ -1,3 +1,7 @@
+## About Me  
+Data Analyst & Accounting Professional skilled in Python, Excel, SQL, and Power BI.  
+Also a Web Designer and Published Author, open to remote work & visa sponsorship opportunities.
+
 # Executive Virtual Assistant Portfolio – Calista Uzokwe
 This is a professional portfolio website built for showcasing the services of Calista Uzokwe, an Executive Virtual Assistant. The site is designed for clarity, credibility, and smooth client interaction.
 
